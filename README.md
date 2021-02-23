@@ -1,16 +1,16 @@
-#StudentHelp
-##App for taking notes
+# StudentHelp
+## App for taking notes
 
-#Goal
+# Goal
 
 A web application that allows students to take notes while attending college and manage them efficiently
 
-#Description
+# Description
 
-*The application allows college students to manage their notes. It is a Single Page Application
+* The application allows college students to manage their notes. It is a Single Page Application
 
-#Functionalities
-##(with priorities, from highest to lowest)
+# Functionalities
+## (with priorities, from highest to lowest)
   * Logging in with institutional account
 	Logging in will be possible only with an email that contains @stud.ase.ro 
 	*(at this moment, there is no registration method)
